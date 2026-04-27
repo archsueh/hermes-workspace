@@ -1,0 +1,24 @@
+[2026-04-09 15:17:40] 开始处理Office文件整合
+[2026-04-09 15:17:40] 找到 1908 个Office文件
+[2026-04-09 15:17:40] 处理文件 1/10: TOP SECRET.doc
+[2026-04-09 15:17:40] ❌ 处理失败 /Users/mac/Documents/Office/TOP SECRET.doc: [Errno 2] No such file or directory: '/Users/mac/Documents/Notes/00-索引与导航/unclassified/TOP_SECRETdoc.md'
+[2026-04-09 15:17:40] 处理文件 2/10: 设计学院2024 年高校本科第6轮专业综合评价工作安排.xlsx
+[2026-04-09 15:17:40] ❌ 处理失败 /Users/mac/Documents/Office/设计学院2024 年高校本科第6轮专业综合评价工作安排.xlsx: [Errno 2] No such file or directory: '/Users/mac/Documents/Notes/00-索引与导航/unclassified/设计学院_2024.md'
+[2026-04-09 15:17:40] 处理文件 3/10: 202103174041_张王博_202103174041_张王博_云南艺术学院本科生论文开题报告书.docx
+[2026-04-09 15:17:40] ✅ 创建: /Users/mac/Documents/Notes/06-学术研究/students/张王博_2021031740_2021.md
+[2026-04-09 15:17:40] 处理文件 4/10: 附件3.云南艺术学院青年教师企（事）业单位挂职锻炼协议.doc
+[2026-04-09 15:17:40] ❌ 处理失败 /Users/mac/Documents/Office/附件3.云南艺术学院青年教师企（事）业单位挂职锻炼协议.doc: [Errno 2] No such file or directory: '/Users/mac/Documents/Notes/00-索引与导航/unclassified/附件.md'
+[2026-04-09 15:17:40] 处理文件 5/10: 附件4 成绩登记表-数字文旅IP设计-22数媒1班.xlsx
+[2026-04-09 15:17:40] ❌ 处理失败 /Users/mac/Documents/Office/附件4 成绩登记表-数字文旅IP设计-22数媒1班.xlsx: [Errno 2] No such file or directory: '/Users/mac/Documents/Notes/00-索引与导航/unclassified/附件.md'
+[2026-04-09 15:17:40] 处理文件 6/10: 2024届：毕业设计归档情况统计表【数字媒体艺术】.xls
+[2026-04-09 15:17:40] ✅ 创建: /Users/mac/Documents/Notes/06-学术研究/students/毕业设计_2024.md
+[2026-04-09 15:17:40] 处理文件 7/10: 同行评价_教师参评统计.xlsx
+[2026-04-09 15:17:40] ❌ 处理失败 /Users/mac/Documents/Office/同行评价_教师参评统计.xlsx: [Errno 2] No such file or directory: '/Users/mac/Documents/Notes/00-索引与导航/unclassified/同行评价.md'
+[2026-04-09 15:17:40] 处理文件 8/10: 202103174070_彭锐捷_(已瘦身)云南艺术学院设计学院毕业论文彭锐捷.docx
+[2026-04-09 15:17:40] ✅ 创建: /Users/mac/Documents/Notes/06-学术研究/students/彭锐捷_2021031740_2021.md
+[2026-04-09 15:17:40] 处理文件 9/10: 附件1-5.docx
+[2026-04-09 15:17:40] ❌ 处理失败 /Users/mac/Documents/Office/附件1-5.docx: [Errno 2] No such file or directory: '/Users/mac/Documents/Notes/00-索引与导航/unclassified/附件.md'
+[2026-04-09 15:17:40] 处理文件 10/10: 正文1-6页_1.xls
+[2026-04-09 15:17:40] ❌ 处理失败 /Users/mac/Documents/Office/正文1-6页_1.xls: [Errno 2] No such file or directory: '/Users/mac/Documents/Notes/00-索引与导航/unclassified/正文.md'
+[2026-04-09 15:17:40] 处理完成: 3/10 个文件
+[2026-04-09 15:17:40] 创建整合报告: /Users/mac/Documents/Code/hermes-workspace/logs/office_integration_report.md

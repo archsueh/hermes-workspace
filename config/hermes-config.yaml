@@ -1,0 +1,56 @@
+# Hermes Agent 工作区配置
+# 位置: /Users/mac/Developer/hermes-workspace/
+
+# 基础设置
+name: "Hermes Workspace"
+version: "1.0"
+created: "2026-04-09"
+
+# 目录配置
+directories:
+  config: "config"
+  skills: "skills"
+  scripts: "scripts"
+  cache: "cache"
+  logs: "logs"
+  memory: "memory"
+  sessions: "sessions"
+
+# 技能管理
+skills:
+  auto_load: true
+  default_category: "user"
+
+# 记忆设置
+memory:
+  max_size: 10000  # 字符数
+  auto_save: true
+
+# 日志设置
+logging:
+  level: "INFO"
+  file: "logs/hermes.log"
+  max_size: "10MB"
+  backup_count: 5
+
+# 模型配置
+model:
+  provider: zhipu
+  model_name: glm-4-plus
+  api_key_env: ZHIPU_API_KEY
+  # 注意：由于使用的是编码套餐，此处使用专用 Coding 端点
+  base_url: https://open.bigmodel.cn/api/coding/paas/v4/
+  # 通用端点备选: https://open.bigmodel.cn/api/paas/v4/
+
+# 模型降级策略
+model_fallback:
+  primary: glm-4-plus
+  fallback: glm-4-flash
+  fallback_trigger: insufficient_balance
+
+# 用户自定义设置
+user:
+  name: "mac"
+  workspace: "Developer/hermes-workspace"
+  notes_path: "/Users/mac/Documents/Notes"
+  projects_path: "/Users/mac/Developer"

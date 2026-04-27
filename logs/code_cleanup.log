@@ -1,0 +1,24 @@
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/asset_organizer.py -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/asset_organizer.py
+[2026-04-09 16:25:38] EXTRACT: /Users/mac/Documents/Code/asset_organizer.py -> MD: /Users/mac/Documents/Notes/01-技术工具/extracted_code/code_asset_organizer_20260409.md (19016字节)
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/nas_copy.py -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/nas_copy.py
+[2026-04-09 16:25:38] EXTRACT: /Users/mac/Documents/Code/nas_copy.py -> MD: /Users/mac/Documents/Notes/01-技术工具/extracted_code/code_nas_copy_20260409.md (3018字节)
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/nas_dedup_nonmaterial.py -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/nas_dedup_nonmaterial.py
+[2026-04-09 16:25:38] EXTRACT: /Users/mac/Documents/Code/nas_dedup_nonmaterial.py -> MD: /Users/mac/Documents/Notes/01-技术工具/extracted_code/code_nas_dedup_nonmaterial_20260409.md (2659字节)
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/nas_graphics_cleanup.py -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/nas_graphics_cleanup.py
+[2026-04-09 16:25:38] EXTRACT: /Users/mac/Documents/Code/nas_graphics_cleanup.py -> MD: /Users/mac/Documents/Notes/01-技术工具/extracted_code/code_nas_graphics_cleanup_20260409.md (3359字节)
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/migrate_hsueh.sh -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/migrate_hsueh.sh
+[2026-04-09 16:25:38] EXTRACT: /Users/mac/Documents/Code/migrate_hsueh.sh -> MD: /Users/mac/Documents/Notes/01-技术工具/extracted_code/code_migrate_hsueh_20260409.md (1001字节)
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/find_dupes.py -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/find_dupes.py
+[2026-04-09 16:25:38] EXTRACT: /Users/mac/Documents/Code/find_dupes.py -> MD: /Users/mac/Documents/Notes/01-技术工具/extracted_code/code_find_dupes_20260409.md (3421字节)
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/delete_dupes.py -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/delete_dupes.py
+[2026-04-09 16:25:38] EXTRACT: /Users/mac/Documents/Code/delete_dupes.py -> MD: /Users/mac/Documents/Notes/01-技术工具/extracted_code/code_delete_dupes_20260409.md (1354字节)
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/清理日志_NAS_Archives_20260408.txt -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/清理日志_NAS_Archives_20260408.txt
+[2026-04-09 16:25:38] DELETE: /Users/mac/Documents/Code/清理日志_NAS_Archives_20260408.txt -> 成功
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/清理日志_20260408.txt -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/清理日志_20260408.txt
+[2026-04-09 16:25:38] DELETE: /Users/mac/Documents/Code/清理日志_20260408.txt -> 成功
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/清理日志_Archives_20260408.txt -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/清理日志_Archives_20260408.txt
+[2026-04-09 16:25:38] DELETE: /Users/mac/Documents/Code/清理日志_Archives_20260408.txt -> 成功
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/core-plugins.json -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/core-plugins.json
+[2026-04-09 16:25:38] DELETE: /Users/mac/Documents/Code/core-plugins.json -> 成功
+[2026-04-09 16:25:38] BACKUP: /Users/mac/Documents/Code/appearance.json -> /Users/mac/Documents/Code/hermes-workspace/backups/code_cleanup/appearance.json
+[2026-04-09 16:25:38] DELETE: /Users/mac/Documents/Code/appearance.json -> 成功
